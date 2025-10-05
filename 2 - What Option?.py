@@ -9,7 +9,7 @@ while True:
     while True:
         match option:
             case 1:
-                print("Good choice, chicken is a to-go to for a lean meat")
+                print("Good choice! Chicken is the to-go to for a lean meat.")
                 break
             case 2:
                 print("Beef is not bad, but it can be fatty.")
@@ -27,4 +27,5 @@ while True:
         print()
         continue
     else:
-        print("Bur thanks for sharing. Buh-bye")
+        print("That's fine, but thanks for sharing. Buh-bye")
+        break
