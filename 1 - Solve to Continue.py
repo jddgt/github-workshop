@@ -9,3 +9,4 @@ while True:
         break
     else:
         print("How come you don't know 7 * 8? Try again...")
+        print()
